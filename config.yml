@@ -342,7 +342,7 @@ matchmaking:
 
 messages:
   greeting: "Hey! I am {me} running on {engine}.Type !assist my commands."
-  goodbye: "Good game! Any suggestions? Message @DarkOnCrack"
+  goodbye: "Good game!"
   greeting_spectators: "Hey, I'm running on {engine} .Type !help for a list of commands."
   goodbye_spectators: "Thanks For watching!"
 
